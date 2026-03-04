@@ -176,22 +176,6 @@ bash scripts/evaluate.sh \
      --exp_name ./outputs/rl_muon
 ```
 
-## 📜 License
-This project is licensed under the **Apache License 2.0**.
-
-## 🔖 Citation
-If you find our code or paper helpful, please consider citing our work:
-
-```bibtex
-@misc{shan2026muonrec,
-      title={MuonRec: Shifting the Optimizer Paradigm Beyond Adam in Scalable Generative Recommendation}, 
-      author={Rong Shan and Aofan Yu and Bo Chen and Kuo Cai and Qiang Luo and Ruiming Tang and Han Li and Weiwen Liu and Weinan Zhang and Jianghao Lin},
-      year={2026},
-      eprint={2603.00416},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
-}
-```
 
 > [!NOTE]
 > The **Muon** implementation code for the **TIGER** model and related **Hugging Face** model checkpoints are currently under organization and will be released soon.
