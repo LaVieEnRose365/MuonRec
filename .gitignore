@@ -11,4 +11,5 @@ minionerec_engine/data/Amazon/valid/*.csv
 # 训练输出与日志
 outputs/
 wandb/
-__pycache__/
+__pycache__/.DS_Store
+assets/.DS_Store
