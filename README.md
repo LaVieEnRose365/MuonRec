@@ -167,7 +167,7 @@ python experiments/generative/rl_adam.py \
      --output_dir ./outputs/rl_adam
 ```
 
-## 6. Evaluation
+### 6. Evaluation
 
 Evaluate the models using constrained beam search to compute **HR@K** and **NDCG@K** metrics.
 

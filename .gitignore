@@ -1,0 +1,14 @@
+# 系统垃圾文件
+.DS_Store
+
+# 数据文件 (MuonRec 核心数据)
+minionerec_engine/data/Amazon/index/*.npy
+minionerec_engine/data/Amazon/index/*.json
+minionerec_engine/data/Amazon/train/*.csv
+minionerec_engine/data/Amazon/test/*.csv
+minionerec_engine/data/Amazon/valid/*.csv
+
+# 训练输出与日志
+outputs/
+wandb/
+__pycache__/
